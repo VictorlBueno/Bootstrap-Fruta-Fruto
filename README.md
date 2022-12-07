@@ -1,4 +1,4 @@
-><a href="https://vlb-skate-brand.netlify.app/" target="_blank">See this code running on your web</a></br>
+><a href="https://vlb-fruta-fruto.netlify.app" target="_blank">See this code running on your web</a></br>
 ><a href="https://github.com/stars/VictorlBueno/lists/front-end" target="_blank">See more design codes</a></br>
 
 # Fruta & Fruto Website 🍌
