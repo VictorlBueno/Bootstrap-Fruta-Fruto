@@ -1,6 +1,6 @@
 ><a href="https://vlb-fruta-fruto.netlify.app" target="_blank">See this code running on your web</a></br>
 
-## Bootstrap webpage
+## Bootstrap Webpage
 <p>Simple project to practice bootstrap.</p>
 <a href="https://vlb-fruta-fruto.netlify.app" target="_blank">Click here to see this code running on your web</a></br></br>
 
