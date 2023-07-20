@@ -1,19 +1,14 @@
 ><a href="https://vlb-fruta-fruto.netlify.app" target="_blank">See this code running on your web</a></br>
-><a href="https://github.com/stars/VictorlBueno/lists/front-end" target="_blank">See more design codes</a></br>
 
-# Fruta & Fruto Website 🍌
-<p>Responsive website created with bootstrap.</p>
+## Bootstrap webpage
+<p>Simple project to practice bootstrap.</p>
+<a href="https://vlb-fruta-fruto.netlify.app" target="_blank">Click here to see this code running on your web</a></br></br>
 
-# Languages 👨‍💻
-<ul>
-  <li>HTML</li>
-  <li>Bootstrap</li>
-  <li>CSS</li>
-</ul>
+Technologies 
+<code>Bootstrap</code> <code>CSS</code> <code>HTML</code>
  
 #
-<h6>Redes Sociaiss&ensp;&ensp;&ensp;&ensp;
+<h6>Links&ensp;&ensp;&ensp;&ensp;
 <a href="https://linkedin.com/in/victorlbueno/" target="_blank">LinkedIn</a>&ensp;&ensp;•&ensp;&ensp;
-<a href="https://discordapp.com/users/Playsken#1180" target="_blank">Discord</a>&ensp;&ensp;•&ensp;&ensp;
-<a href="https://www.hackerrank.com/Playsken" target="_blank">HackerRank</a>&ensp;&ensp;•&ensp;&ensp;
+<a href="https://victor.com.de/" target="_blank">Website</a>&ensp;&ensp;•&ensp;&ensp;
 <a href="https://instagram.com/victorlbueno" target="_blank">Instagram</a></h6>
