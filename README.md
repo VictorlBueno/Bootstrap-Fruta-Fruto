@@ -1,5 +1,5 @@
 ## Bootstrap Webpage
-<p>Simple project to practice bootstrap.</p>
+<p>Simple design for bootstrap practice.</p>
 <a href="https://vlb-fruta-fruto.netlify.app" target="_blank">Click here to see this code running on your web</a></br></br>
 
 Technologies 
